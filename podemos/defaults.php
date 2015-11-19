@@ -1,7 +1,6 @@
 <?php
 /**
- * @forked by Julián Torres <irc@extralab.net>
- * This is a fork from theme 'example'
+ *
  * @author Björn Schießle <schiessle@owncloud.com>
  * @author Jan-Christoph Borchardt, http://jancborchardt.net
  * @copyright Copyright (c) 2015, ownCloud, Inc.
@@ -18,6 +17,9 @@
  *
  * You should have received a copy of the GNU Affero General Public License, version 3,
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
+ *
+ * @modified by Julián Torres, http://extralab.net
+ *
  */
 
 class OC_Theme {
