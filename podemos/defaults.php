@@ -1,5 +1,7 @@
 <?php
 /**
+ * @forked by Julián Torres <irc@extralab.net>
+ * This is a fork from theme 'example'
  * @author Björn Schießle <schiessle@owncloud.com>
  * @author Jan-Christoph Borchardt, http://jancborchardt.net
  * @copyright Copyright (c) 2015, ownCloud, Inc.
@@ -30,6 +32,7 @@ class OC_Theme {
 	private $themeMailHeaderColor;
 
 	/* put your custom text in these variables */
+	/* change region name to yours */
 	function __construct() {
 		$this->themeEntity = 'Podemos Región de Murcia';
 		$this->themeName = 'Podemos Región de Murcia';
